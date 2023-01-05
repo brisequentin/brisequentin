@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Quentin, or Quent1, or Quent12..</h1>
-<h3 align="center">I am a passionate developper from France</h3>
+<h3 align="center">I am a passionate developper from France, but please note that this account is not up to date yet. I am currently working on mapping projects I did on my github (reflex I did not have)</h3>
 
 
 <p align="left">
